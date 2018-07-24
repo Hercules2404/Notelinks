@@ -1,0 +1,10 @@
+.controlpanel {
+	display: inline-block;
+	border: 1px solid #555;
+	padding: 10px 5px;
+	padding-bottom: 15px;
+	margin: 5px 5px;
+	width: 250px;
+	border-radius: 10px;
+	cursor: default;
+}

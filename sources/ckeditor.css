@@ -1,0 +1,72 @@
+
+.content-post {
+	font-size: 18px; 
+	margin-top: 50px; 
+	text-align: justify; 
+	line-height: 1.5; 
+	padding-bottom: 100px;
+	font-family: 'Segoe UI';
+}
+.content-post blockquote {
+    overflow: hidden;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    margin-left: 0;
+    font-style: italic;
+    border: 1px solid #ccc;
+    border-left: 5px solid #999;
+    background-color: #EEE;
+}
+
+.content-post h1, h2, h3, h4 {
+	color: #009dff;
+}
+
+.content-post p {
+	text-align: justify;
+}
+
+.content-post img {
+
+}
+
+.content-post .image {
+    position: relative;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.content-post .image {
+    clear: both;
+    text-align: center;
+}
+
+.content-post .image>img {
+	display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    float: left;
+}
+
+.content-post .image>figure {
+	display: block;
+	margin: 0 auto;
+}
+
+.content-post .image>figcaption {
+    color: #333;
+    background-color: #f7f7f7;
+    padding: .6em;
+    font-size: .75em;
+    outline-offset: -1px;
+}
+
+.content-post .image-style-align-left {
+	float: left;
+    margin-right: 20px;
+}
+
+.content-post .image-style-align-right {
+	float: right;
+    margin-left: 20px;
+}
